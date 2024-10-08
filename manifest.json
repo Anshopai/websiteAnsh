@@ -1,0 +1,11 @@
+{
+	"name": "MOND_DRON ",
+		"short_name": "MOND_DRON",
+		"description": "",
+	"start_url": ".",
+	"background_color": "#FFFFFF",
+	"display": "standalone",
+	"scope": "/",
+	"theme_color": "#FFFFFF",
+	"version": "1.0"
+}
